@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to HansBank loans related qa's webhook APIs "
+  message: "Welcome to HansBank loans related QA webhook APIs "
   contactDetails:
     name: "Cyrano Marita - QA Lead"
     email: "cyrano@eazybank.com"
